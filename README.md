@@ -18,27 +18,22 @@ Mario Kart Live vuelve a reunir el espacio físico con el virtual, uniendo en su
 
 ## En este caso se mezclan:
 
-<ul> <li> 
  
- ### Un vehículo radio control
+ - Un vehículo radio control
  
-</li>
+
  Mario Kart Live se vale de un vehículo radio control que es el elemento físico que va a formar parte de la interfaz que luego se va a mezclar con la del propio videojuego. Recorriendo el circuito que previamente la persona jugadora quiera crear, al ser éste un videojuego que mezcla un sistema de NPC "Non-playable Characters", que harán las veces de contrincantes en cada carrera o desafío que hagamos dentro del espacio virtual. El vehículo tiene ciertas limitaciones relacionadas con la distancia de acción ya que no es muy potente las antenas radio control.
 
-<li>
+
  
  ### Una Cámara de vídeo
  
- </li>
  Con esta cámara de vído montada sobre el Vehículo radio control, podremos hacer el reconocimiento del espacio físico sobre el que tendrá la acción. Nos servirá para convertir el espacio que hayamos seleccionado y confeccionado para tal ocasión. ésta cámara proporciona información a la interfaz, la cual reconoce balizas que hemos colocado, siendo clave para la presentación de la imágen.
 
-<li>
  
  ### El videojuego
  
- </li>
+
  De manera general, los videojuegos, son parte de un programa ejecutado con código cerrado no admitiendo variaciones al estar ya programadas con anterioridad. Éste no es el caso, Mario Kart Live demuestra que un programa puede ser permeable y permitir que el recorrido lo elabore desde cero la persona jugadora. En particular, Mario Kart Live necesita que la persona haga un recorrido con varias porterías y señales de giro hechas de cartón que trae el propio kit. Una vez hecho, se ha de recorrer con el vehículo radio control para reconocer el circuito para poder empezar a jugar.
-</ul>
- 
  
 </p>
