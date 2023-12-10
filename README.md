@@ -13,7 +13,7 @@ Para Manovich, la hibridación en la era de los nuevos medios implica que formas
 
 ## Caso1 - Mario Kart Live
 <p align="justify">
- Los juegos se han creado para desarrollar la imaginación y hacer el tiempo de ocio mas ameno. Desde un lanzar una piedra para probar la puntería hasta unas gafas RV, en todo momento se está centrado en el sector del entretenimiento. Los videojuegos, en su evolución fueron sustituyendo a los juegos tradicionales mas manuales o artesanales, cambiando el escenario real por una pantalla y ofreciendo multitud de opciones con la misma interfaz y controles, una pantalla y un mando como control remoto. Es por esto que han tenido tanto éxito, el entorno para poder reproducir multitud de historias y retos ha sido un espacio controlado y, en mayor o menor medida, al alcance de un público generalizado. 
+ Los juegos se han creado para desarrollar la imaginación y hacer el tiempo de ocio más ameno. Desde un lanzar una piedra para probar la puntería hasta unas gafas RV, en todo momento se está centrado en el sector del entretenimiento. Los videojuegos, en su evolución fueron sustituyendo a los juegos tradicionales mas manuales o artesanales, cambiando el escenario real por una pantalla y ofreciendo multitud de opciones con la misma interfaz y controles, una pantalla y un mando como control remoto. Es por esto que han tenido tanto éxito, el entorno para poder reproducir multitud de historias y retos ha sido un espacio controlado y, en mayor o menor medida, al alcance de un público generalizado. 
 Mario Kart Live vuelve a reunir el espacio físico con el virtual, uniendo en su esencia el juego tradicional y el virtual, usando elementos tradicionales e hibridándolos con tecnología avanzada. En concreto hablamos de al menos tres sistemas que se han unido para dar a luz esta forma de entender el entretenimiento. 
 
 ## En este caso se mezclan:
@@ -34,6 +34,6 @@ Mario Kart Live vuelve a reunir el espacio físico con el virtual, uniendo en su
  - El videojuego
  
 
- De manera general, los videojuegos, son parte de un programa ejecutado con código cerrado no admitiendo variaciones al estar ya programadas con anterioridad. Éste no es el caso, Mario Kart Live demuestra que un programa puede ser permeable y permitir que el recorrido lo elabore desde cero la persona jugadora. En particular, Mario Kart Live necesita que la persona haga un recorrido con varias porterías y señales de giro hechas de cartón que trae el propio kit. Una vez hecho, se ha de recorrer con el vehículo radio control para reconocer el circuito para poder empezar a jugar.
+ De manera general, los videojuegos, son parte de un programa ejecutado con código cerrado no admitiendo variaciones al estar ya programadas con anterioridad. Éste no es el caso, Mario Kart Live demuestra que un programa puede ser permeable y permitir que el recorrido lo elabore desde cero la persona jugadora. En particular, Mario Kart Live necesita que la persona haga un recorrido con varias porterías y señales de giro hechas de cartón que trae el propio kit. Una vez hecho, se ha de recorrer con el vehículo radio control para reconocer el circuito, es así, como una vez generado de forma analógica a voluntad de la persona jugadora, el videojuego almacena y crea todo el entorno para poder empezar a jugar.  
  
 </p>
