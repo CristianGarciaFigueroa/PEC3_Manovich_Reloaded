@@ -37,5 +37,10 @@ Mario Kart Live vuelve a reunir el espacio físico con el virtual, uniendo en su
  
 
  De manera general, los videojuegos, son parte de un programa ejecutado con código cerrado no admitiendo variaciones al estar ya programadas con anterioridad. Éste no es el caso, Mario Kart Live demuestra que un programa puede ser permeable y permitir que el recorrido lo elabore desde cero la persona jugadora. En particular, Mario Kart Live necesita que la persona haga un recorrido con varias porterías y señales de giro hechas de cartón que trae el propio kit. Una vez hecho, se ha de recorrer con el vehículo radio control para reconocer el circuito, es así, como una vez generado de forma analógica a voluntad de la persona jugadora, el videojuego almacena y crea todo el entorno para poder empezar a jugar.  
+
+ ## Caso 2 - RockSmith
+ Para mí este caso es una completa genialidad. Llevo 23 años tocando la guitarra y sigo aprendiendo día de hoy. Tuve la suerte de aprender a tocar la guitarra en casa, mi padre nos enseñó a mi hermano y a mí.
+
+Al cabo del tiempo descubrí los Video tutoriales, en mi caso eran DVD que se habían tomado al digitalizar una cinta VHS. En mi adolescencia salió al mercado el videojuego Guitar Hero, el cual no llegué a disfrutar mucho porque no se parecía en nada a tocar la guitarra. Tenía amigos que se desvivían por este videojuego, incluso llegando a sentir que podrían tocar cualquier canción de rock con una guitarra de verdad.
  
 </p>
