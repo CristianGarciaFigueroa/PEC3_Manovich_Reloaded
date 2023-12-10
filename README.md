@@ -23,5 +23,6 @@ Mario Kart Live vuelve a reunir el espacio físico con el virtual, uniendo en su
  Con esta cámara de vído montada sobre el Vehículo radio control, podremos hacer el reconocimiento del espacio físico sobre el que tendrá la acción. Nos servirá para convertir el espacio que hayamos seleccionado y confeccionado para tal ocasión. ésta cámara proporciona información a la interfaz, la cual reconoce balizas que hemos colocado, siendo clave para la presentación de la imágen.
 
  ### El videojuego
- De manera general, los videojuegos, son parte de un programa ejecutado con código cerrado no admitiendo variaciones al estar ya programadas con anterioridad. Éste no es el caso, Mario Kart Live demuestra que un programa puede ser permeable y permitir 
+ De manera general, los videojuegos, son parte de un programa ejecutado con código cerrado no admitiendo variaciones al estar ya programadas con anterioridad. Éste no es el caso, Mario Kart Live demuestra que un programa puede ser permeable y permitir que el recorrido lo elabore desde cero la persona jugadora. En particular, Mario Kart Live necesita que la persona haga un recorrido con varias porterías y señales de giro hechas de cartón que trae el propio kit. Una vez hecho, se ha de recorrer con el vehículo radio control para reconocer el circuito para poder empezar a jugar.
+ 
 </p>
