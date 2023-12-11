@@ -1,4 +1,9 @@
 # PEC3_Manovich_Reloaded
+
+Autor: Cristian García
+
+Fecha: 11/12/2023
+
 ## Planteamiento
 <p align="justify">
  Para entender el concepto de hibridación, hay que tener en cuenta a Lev Manovich Refiriéndose a esta como una mezcla y combinación de diferentes formas culturales, estilos y géneros, siendo posibles gracias a la digitalización y la convergencia mediática.
