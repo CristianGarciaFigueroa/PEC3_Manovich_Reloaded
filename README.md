@@ -13,7 +13,7 @@ Para Manovich, la hibridación en la era de los nuevos medios implica que formas
 
 ## Caso1 - Mario Kart Live
 
- [Mario Kart Live](https://es.wikipedia.org/wiki/Mario_Kart_Live:_Home_Circuit#/media/Archivo:MarioKartLiveHomeCircuitLogo.webp)
+ ![Mario Kart Live](https://es.wikipedia.org/wiki/Mario_Kart_Live:_Home_Circuit#/media/Archivo:MarioKartLiveHomeCircuitLogo.webp)
 
 <p align="justify">
  Los juegos se han creado para desarrollar la imaginación y hacer el tiempo de ocio más ameno. Desde un lanzar una piedra para probar la puntería hasta unas gafas RV, en todo momento se está centrado en el sector del entretenimiento. Los videojuegos, en su evolución fueron sustituyendo a los juegos tradicionales mas manuales o artesanales, cambiando el escenario real por una pantalla y ofreciendo multitud de opciones con la misma interfaz y controles, una pantalla y un mando como control remoto. Es por esto que han tenido tanto éxito, el entorno para poder reproducir multitud de historias y retos ha sido un espacio controlado y, en mayor o menor medida, al alcance de un público generalizado. 
