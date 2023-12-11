@@ -12,6 +12,7 @@ Para Manovich, la hibridación en la era de los nuevos medios implica que formas
  </p>
 
 ## Caso1 - Mario Kart Live
+
 [Mario Kart Live](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MarioKartLiveHomeCircuitLogo.webp/1871px-MarioKartLiveHomeCircuitLogo.webp.png)
 
 <p align="justify">
