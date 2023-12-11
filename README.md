@@ -97,6 +97,10 @@ Donde un acorde de Mi mayor correspondería a lo siguiente:
 
 Rocksmith entiende e hibrida este sistema de representación de notas y acordes en su interfaz de juego, ya que para el aprendizaje de guitarra es un sistema reconocido y en uso. Ésto le da a RockSmith la oportunidad de representar al mismo tiempo una pista de audio sobre la que se va a jugar tocando las notas adecuadas en el momento que se indique. No sería posible hacer este videojuego sin un reconocimiento de "qué nota se está tocando" y es por esto que Rocksmith incorpora un afinador que está rastreando en todo momento el sonido que emite la guitarra para calcular si la persona que juega está acertando con lo requerido.
 
+## Conclusión
+
+Sin la hibridación, no tendríamos los avances que nos rodean diariamente, simplemente porque tendríamos que ir interconectando dispositivos para que funcionen conjuntamente y no estarían integrados en una única interfaz. Dejando un nulo lugar a la creación y/o modificación del espacio creativo. Es en la hibridación, donde encontramos la mezcla que ofrece al usuario la posibilidad de disponer de varias tecnologías creadas en contextos diferentes, pero con la oportunidad de reunirlas en el mismo espacio y al mismo tiempo. Rompiéndose así las barreras que mantenían a cada tipo de tecnología en un marco característico único.  
+
 ## Referencias y bibliografía
 
 - Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
