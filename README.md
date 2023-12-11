@@ -92,4 +92,13 @@ Donde un acorde de Mi mayor correspondería a lo siguiente:
 
 Rocksmith entiende e hibrida este sistema de representación de notas y acordes en su interfaz de juego, ya que para el aprendizaje de guitarra es un sistema reconocido y en uso. Ésto le da a RockSmith la oportunidad de representar al mismo tiempo una pista de audio sobre la que se va a jugar tocando las notas adecuadas en el momento que se indique. No sería posible hacer este videojuego sin un reconocimiento de "qué nota se está tocando" y es por esto que Rocksmith incorpora un afinador que está rastreando en todo momento el sonido que emite la guitarra para calcular si la persona que juega está acertando con lo requerido.
 
+## Referencias y bibliografía
+
+- Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+- Wikipedia contributors. (2023, 30 junio). Rocksmith+. Wikipedia. https://en.wikipedia.org/wiki/Rocksmith%2B#/media/File:Rocksmith+_cover.jpeg
+- colaboradores de Wikipedia. (2023, 12 octubre). Mario Kart Live: Home Circuit. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Mario_Kart_Live:_Home_Circuit#/media/Archivo:MarioKartLiveHomeCircuitLogo.webp
+- Ray Bacon. (2020, 16 octubre). Compré el MARIO KART Live Home Circuit para Nintendo SWITCH 😮 Lo monto y te hago un gameplay [Vídeo]. YouTube. https://www.youtube.com/watch?v=YnbGKKVfUhs
+- Eddie Warboy. (2022, 14 septiembre). APRENDER a TOCAR GUITARRA NUNCA FUE TAN FÁCIL y DIVERTIDO / Rocksmith+ Review [Vídeo]. YouTube. https://www.youtube.com/watch?v=Jamm0uDazMk
+- 
+
 </p>
