@@ -58,8 +58,24 @@ Pues bien, RockSmith comparte el sistema de emulación de sonido con esta pedale
 
 - Una interfaz de juego combinada con tablaturas
 
-  La tablatura es un sistema de aprendizaje que divide las cuerdas de la guitarra y los trastes ####separación de cada cuerda entre los mismos
+  La tablatura es un sistema de aprendizaje que divide las cuerdas de la guitarra y los trastes (separación de cada cuerda entre los mismos). Dejando un esquema tal que así:
 
+1: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+2: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+3: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+4: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+5: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+6: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
 
- 
+Donde un acorde de Mi mayor correspondería a lo siguiente:
+
+1: 0
+2: 0
+3: 1
+4: 2
+5: 2
+6: 0
+
+Rocksmith entiende e hibrida este sistema de representación de notas y acordes en su interfaz de juego, ya que para el aprendizaje de guitarra es un sistema reconocido y en uso. Ésto le da a RockSmith la oportunidad de representar al mismo tiempo una pista de audio sobre la que se va a jugar tocando las notas adecuadas en el momento que se indique. No sería posible hacer este videojuego sin un reconocimiento de "qué nota se está tocando" y es por esto que Rocksmith incorpora un afinador que está rastreando en todo momento el sonido que emite la guitarra para calcular si la persona que juega está acertando con lo requerido.
+
 </p>
