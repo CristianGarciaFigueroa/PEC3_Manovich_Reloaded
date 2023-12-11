@@ -61,10 +61,15 @@ Pues bien, RockSmith comparte el sistema de emulación de sonido con esta pedale
   La tablatura es un sistema de aprendizaje que divide las cuerdas de la guitarra y los trastes (separación de cada cuerda entre los mismos). Dejando un esquema tal que así:
 
 1: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+
 2: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+
 3: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+
 4: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+
 5: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
+
 6: 0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17
 
 Donde un acorde de Mi mayor correspondería a lo siguiente:
