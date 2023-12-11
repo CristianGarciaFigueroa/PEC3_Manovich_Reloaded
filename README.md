@@ -49,7 +49,16 @@ Mario Kart Live vuelve a reunir el espacio físico con el virtual, uniendo en su
 
  - Lecciones de guitarra en vídeo
 
-   En RockSmith hay acceso a tutoriales de guitarra en niveles que van destinados a personas que se acaban de comprar una guitarra y no tienen ningún conocimiento, pero también, para aquellas personas que quieren perfeccionar su técnica. Teniendo una selección amplia de lecciones, cubriendo el aprendizaje no solo de posicionamiento de los dedos para sonar correctamente sino que también hay técnicas para buscar sonidos concretos como el "palm mute", siendo ésta una técnica algo mas avanzada usada por guitarristas de primer nivel en todo el mundo..
+   En RockSmith hay acceso a tutoriales de guitarra en niveles que van destinados a personas que se acaban de comprar una guitarra y no tienen ningún conocimiento, pero también, para aquellas personas que quieren perfeccionar su técnica. Teniendo una selección amplia de lecciones, cubriendo el aprendizaje no solo de posicionamiento de los dedos para sonar correctamente sino que también hay técnicas para buscar sonidos concretos como el "palm mute", siendo ésta una técnica algo mas avanzada usada por guitarristas de primer nivel en todo el mundo.
+
+- Un sistema de emulación de sonido
+
+  Con el gran avance que ha hecho la tecnología en los últimos 20 años, la emulación de sonidos se ha hecho muy accesible y fiable. Hablamos del procesamiento del sonido "crudo" de una guitarra eléctrica, que a priori sin ningún proceso, diríamos que tiene un sonido bastante lejos del imaginario colectivo de ese sonido poderoso y distorsionado. Cuando compré mi primera guitarra eléctrica hace aproximadamente 20 años, pude permitirme un pedal de multi efectos, el cual era bastante primitivo y tenía unos efectos toscos y sin un sonido definido. A principios de este año 2023 compré un pedal multiefectos digital para showsn en directo y me he sorprendido muchísimo de la calidad del sonido.
+Pues bien, RockSmith comparte el sistema de emulación de sonido con esta pedalera última que compré. Responde al sistema llamado IR "Impulse Response", que son sonidos almacenados en formato .WAV y que gracias al avance de los procesadores, se puede emular un sonido sin latencia y con una calidad excelente.
+
+- Una interfaz de juego combinada con tablaturas
+
+  La tablatura es un sistema de aprendizaje que divide las cuerdas de la guitarra y los trastes ####separación de cada cuerda entre los mismos
 
 
  
